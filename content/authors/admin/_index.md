@@ -1,7 +1,7 @@
 ---
 title: Ceyhun Efe Kayan
-role: PhD Candidate
-bio: "PhD Candidate from Izmir Institute of Technology "
+role: PhD Student Candidate
+bio: "PhD Student Candidate from Izmir Institute of Technology "
 interests:
   - Artificial Intelligence
 social:
